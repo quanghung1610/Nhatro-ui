@@ -2,7 +2,8 @@ module.exports = {
     content: ["./src/**/*.{html,js}"],
     theme: {
       extend: {
-        "1100": "1100px"
+        "1100": "1100px",
+        "70": "70px"
       },
       backgroundColor:{
         primary: "#F5F5F5",
